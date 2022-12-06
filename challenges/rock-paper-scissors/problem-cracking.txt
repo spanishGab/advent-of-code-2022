@@ -1,0 +1,12 @@
+Day 2 - part 1
+
+Input: encrypted strategy guide, where:
+  * first column: oponent's choice. Rock (A), Paper (B), Scissors (C)
+  * second column: my choice. Rock (X), Paper (Y), Scissors (Z)
+
+Output: total score if evereything goes exactly according to the strategy guide.
+
+Score: 1 for Rock, 2 for Paper, and 3 for Scissors plus the score for the outcome of the round (0 if you lost, 3 if the round was a draw, and 6 if you won)
+
+------------------------------------------------------------------------------------
+
