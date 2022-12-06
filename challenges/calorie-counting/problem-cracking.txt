@@ -1,0 +1,19 @@
+Day 1 - part 1
+
+Input: The number of calories each Elf is carrying
+- grouped lines of numbers indicate how many calories that elf is caryingl
+
+
+Output: The elf carying the most calories
+
+---------------------------------------------------------------------------------
+
+Day 1 - part 2
+
+Input: The number of calories each Elf is carrying
+- grouped lines of numbers indicate how many calories that elf is caryingl
+
+
+Output: The top trhee elves carying the most calories
+
+---------------------------------------------------------------------------------
